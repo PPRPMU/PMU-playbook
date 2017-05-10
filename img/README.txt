@@ -2,7 +2,7 @@
 
 1. File name should be short, descriptive, use full words or abbreviations. (e.g. "ppr_logo" or "parks_and_rec_logo", not "prksnrec_lgo")
 
-2. Use underscores instead of spaces.
+2. Use underscores instead of spaces for files and folders.
 
 3. Use lowercase letters.
 
