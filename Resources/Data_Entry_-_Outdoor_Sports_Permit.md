@@ -2,7 +2,7 @@
 
 ## Outdoor Sports Permit Guide
 
-1. Open the Outdoor Sports Permit Application PDF file from the Backlog. (Files should be named on the date of intake using the format: yyyyMMdd.)
+1. Open the Outdoor Sports Permit (OSP) Application PDF file from the Backlog. (Files should be named on the date of intake using the format: yyyyMMdd.)
 2. Open PPRstat from your Desktop.
 3. Select Username from the drop-down menu. Click the first button next to the drop down menu to begin session.
 
@@ -32,7 +32,7 @@
 
 
 6. If entry is complete, use typewriter function to write the Permit ID on the top of the OSP Form on the PDF file.
-7. If **any** parts above are missing from the application it will be marked at “rejected” at the top of the page with the rejection type noted using the typewriter function. After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.****
+7. If any parts above are missing from the application it will be marked as “rejected” at the top of the page with the rejection type noted using the typewriter function (i.e. Missing Expected Group Size or Missing Staff Approval). After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
 8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into the Rejected folder using the same file name (yyyyMMdd).
 
 
@@ -42,7 +42,7 @@
 - Ctrl + " will load previous start or end time in the scheduling fields.
 - "Load Data From Previous Permit" for returning permits or permits with similar information in the intake, you can enter the permit id, hit enter; most of the top fields will be populated with that permit's information.
 - Payments  
-  - Fee Schedule: https://github.com/PPRPMU/PMU-playbook/blob/master/Resources/Athletic_Fields_Fee_Schedule_2016.pdf
+  - Fee Schedule: https://github.com/PPRPMU/PMU-playbook/raw/master/Resources/Athletic_Fields_Fee_Schedule_2016.pdf
   - Time-slots don't have rollover hours. For instance, if the rate is $300 for four hours and only two are used, the two hours cannot be used for another two-hour time slot throughout the week. 
   - Children (no fee), Adults (fee), Children and Adults (fee).
   - No fees for courts.
