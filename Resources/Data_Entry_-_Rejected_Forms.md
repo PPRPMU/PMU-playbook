@@ -4,7 +4,7 @@ After data entry is completed and the PDF pages have been extracted to the Rejec
 
 1.  After logging into PPRstat, click on Reject forms.
 
-    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_menu)
+    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_menu.PNG)
 
 2.  Input all information from the form if available:
      a. Form Type
@@ -14,7 +14,7 @@ After data entry is completed and the PDF pages have been extracted to the Rejec
      e. Staff Approval Date
      f.  Form Receipt Date (use date used for that week's corresponding intake)
 
-    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_screen)
+    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_screen.PNG)
 
 3.  Once the entry is completed, if you have not entered the rejection type on the PDF file, use the typewriter in Acrobat to do so. Make sure to type the Rejection ID on the PDF as well to show that you have entered the rejection in PPRstat.
 
@@ -22,11 +22,11 @@ After data entry is completed and the PDF pages have been extracted to the Rejec
 
 5.  Once all rejected paperwork has been entered into PPRStat, print out rejected files and cover sheets. Start by clicking on the finished tab on the top left.
 
-    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_finished_button)
+    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_finished_button.PNG)
 
 6.  Click “Reject and Print”  followed by generally clicking “Yes” if you want to mark all the forms as returned to the district manager.
 
-    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_reject_and_print)
+    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_reject_and_print.PNG)
 7. Print out the rejected forms for the week from each of the "Rejected" folders.
 8. Attach each corresponding cover sheet printed out to the corresponding rejected paperwork; make sure to sort by district.
 9. Place each district’s rejected paperwork into their corresponding mailboxes.
