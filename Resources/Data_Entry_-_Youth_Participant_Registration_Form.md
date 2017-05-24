@@ -33,3 +33,5 @@
 10. Once you have entered the necessary information. Be sure to hit the save button at the bottom of the screen. 
 
 11. Below is the Participant dashboard, in this section you will find the Case Number (10557 in this example) which you will add to the top right corner of the PDF file once you have registered the participant. Additionally you will add today's date under this case number. 
+
+![img](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Youth_Participant_Registration_Form/eto_add_screen_1.png) ![img](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Youth_Participant_Registration_Form/eto_participant_dashboard_id.png) 
