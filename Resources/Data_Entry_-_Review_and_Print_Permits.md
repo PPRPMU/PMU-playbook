@@ -3,6 +3,7 @@
 ## Reviewing and Printing Permits
 
 1. Open PPRstat from your Desktop.
+2. Select Username from the drop-down menu. Click the first button next to the drop-down menu to begin session.
 
 [![PPRstatLogin](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_login.jpg)]()
 

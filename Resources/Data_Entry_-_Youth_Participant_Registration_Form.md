@@ -2,7 +2,7 @@
 
 ## Participant Registration Forms
 
-1. Open the Youth Participant and Registration (YPRF) PDF file from the Backlog. (Files should be named using the date of intake using the format: yyyyMMdd.)
+1. Open the Youth Participant and Registration (YPRF) PDF file from the Backlog. (Files should be named using the date of intake using the format: yyyyMMdd-facility.)
 
 2. Open a web browser to access the following website and sign in: [https://secure.etosoftware.com/NewLogin.aspx](https://secure.etosoftware.com/NewLogin.aspx)
 
@@ -34,4 +34,6 @@
 
 11. Below is the Participant dashboard, in this section you will find the Case Number (10557 in this example) which you will add to the top right corner of the PDF file once you have registered the participant. Additionally you will add today's date under this case number. 
 
-![img](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Youth_Participant_Registration_Form/eto_participant_dashboard_id.PNG) 
+![img](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Youth_Participant_Registration_Form/eto_participant_dashboard_id.PNG)
+
+12.  Once all entries have been completed. You will need to do download the new participant IDs to the shared drive.
