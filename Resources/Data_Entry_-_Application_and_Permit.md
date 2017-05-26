@@ -2,13 +2,13 @@
 ## Application and Permit Guide
 1. Open the AAP PDF file from the Backlog.
 2. Open PPRstat from your Desktop.
-3. Select Username from dropdown. Hit first button next to the drop down menu to begin session.
-[![PPRstat Login](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_login.jpg)]()
+3. Select Username from drop-down menu. Hit the first button next to the drop down menu to begin session.
+   [![PPRstat Login](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_login.jpg)]()
 4. Once you have reached the screen above you will have to select a type of entry. Select Manage Permits. Once you select Manage Permits you will be prompted with the question of whether the permit is outside or not. Click No.
-[![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_manage_permits.jpg)]()
-[![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_outdoor_permit_question.jpg)]()
+   [![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_manage_permits.jpg)]()
+   [![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_outdoor_permit_question.jpg)]()
 5. You will then be prompted with this screen.
-[![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/aap_pprstat_screen.jpg)]()
+   [![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/aap_pprstat_screen.jpg)]()
 - For AAP forms the minimum requirement for entry requires:
     - Name or Organization Name
     - Facility/Park Name
