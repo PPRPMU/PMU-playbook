@@ -9,7 +9,7 @@
 
 3. You will first have to apply a filter on the permits you want to print out. Click "Apply Filter" and enter the Permit ID of the first Outdoor Sports Permit you entered for that week's intake. Enter either the Permit ID of the last Outdoor Sports Permit you entered or round to the next thousand. 
 
-   ![]()
+   ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Review_and_Print_Permits/pprstat_print_permits.png)
 
 4. Once you have reached the screen above you will have to select a type of entry. Select the "Mangage Permits" option.  Once you select "Manage Permits" you will be prompted with the question of whether the permit is outside or not. Click Yes.
 
@@ -21,7 +21,7 @@
 
 6. Once you have reached the home screen, select the "Print Permits" option. Once you select "Print Permits" you will be prompted with the question of whether you'd like to have the permits sorted or not. Click "No" for now.
 
-   ![]()
+   ![](![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Review_and_Print_Permits/pprstat_apply_filter.png))
 
 7. Look for errors in the data entry by comparing the printed permits to the scanned permit. Make sure to check the Facility, Dates, Amenities, and Schedule. ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Review_and_Print_Permits/permit_information.png)
 
