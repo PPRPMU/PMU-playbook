@@ -2,7 +2,7 @@
 
 ## Weekly Attendance Report
 
-1. Open the WAR PDF file from the Backlog. Note: If the Recreation Center has internet, send back the form and let them know to submit on my-ppr.com.
+1. Open the Weekly Attendance Report (WAR) PDF file from the Backlog. Note: If the Recreation Center has internet, send back the form and let them know to submit on my-ppr.com.
 
 2. Open a web browser to access the following website and sign in: www.my-ppr.com
 
