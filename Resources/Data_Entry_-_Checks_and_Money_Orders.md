@@ -4,15 +4,15 @@
 
 1. In PPRstat enter the amount that the check is for in the "Fee Amount Paid" field.
 
-   ![]()
+   ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Checks_and_Money_Orders/pprstat_osp_fee_field.PNG)
 
 2. Once you tab over or click a different field a prompt will come up asking if this is a new check. Click "Yes" if yes. (See step 4 if "No")
 
-   ![]()
+   ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Checks_and_Money_Orders/osp_input_new_check.PNG)
 
 3. A window will pop up. Enter the information that is exactly on the check. At minimum you need an Account Name, Check Date, Check Number, and Amount.
 
-   ![]()
+   ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Checks_and_Money_Orders/osp_input_check_menu.PNG)
 
 4. From time to time you will have a check that accounts for more than one permit. When you enter this check for the first permit proceed as normal (Step 3). However, remember to put the full amount of the check in the check's amount (but only put the fee amount in the Fee Amount Paid field). For the second permit, enter the "Fee Amount Paid" and click "No" when asked if this is a new check. Search for the check using the check number, then click "Apply this payment"
 

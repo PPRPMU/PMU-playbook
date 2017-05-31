@@ -13,11 +13,11 @@
 
 4. Once you have reached the screen above you will have to select a type of entry. Select the "Mangage Permits" option.  Once you select "Manage Permits" you will be prompted with the question of whether the permit is outside or not. Click Yes.
 
-   ![]()
+   ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Review_and_Print_Permits/pprstat_outdoor_permit_question.jpg)
 
 5. Click the back button once the permits have loaded. (This is the only way your permits will show up in "Print Permits" you cannot see the permits without loading them in "Manage Permits" first.)
 
-   ![]()
+   ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Review_and_Print_Permits/pprstat_back_button.PNG)
 
 6. Once you have reached the home screen, select the "Print Permits" option. Once you select "Print Permits" you will be prompted with the question of whether you'd like to have the permits sorted or not. Click "No" for now.
 
