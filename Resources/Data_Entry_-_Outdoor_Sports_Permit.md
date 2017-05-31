@@ -2,7 +2,7 @@
 
 ## Outdoor Sports Permit Guide
 
-1. Open the Outdoor Sports Permit (OSP) Application PDF file from the Backlog. (Files should be named on the date of intake using the format: yyyyMMdd.)
+1. Move the Outdoor Sports Permit (OSP) PDF file from the "Backlog" to the "In Progress" folder, then open it. (Files should be named on the date of intake using the format: yyyyMMdd.)
 2. Open PPRstat from your Desktop.
 3. Select Username from the drop-down menu. Click the first button next to the drop down menu to begin session.
 

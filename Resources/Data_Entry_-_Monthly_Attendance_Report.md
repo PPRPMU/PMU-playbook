@@ -2,14 +2,12 @@
 
 ## Monthly Attendance Reports
 
-1. Open the Monthly Attendance Reports (MAR) PDF file from the Backlog. (Files should be named on the date of intake using the format: yyyyMMdd.)
-
+1. Move the Monthly Attendance Reports (MAR) PDF file from the "Backlog" to the "In Progress" folder, then open it. (Files should be named on the date of intake using the format: yyyyMMdd.)
 2. Open PPRstat from your Desktop.
-
 3. Select Username from the drop-down menu. Click the first button next to the drop down menu to begin.
 
 [![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_login.jpg)]()
-   
+
 4. Once you have reached the screen above you will have to select a type of entry. Select "Input Attendance"
 
 [![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Monthly_Attendance_Report/pprstat_input_attendance.JPG)]()
@@ -24,4 +22,5 @@
 
 [![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Monthly_Attendance_Report/mar_rejected.JPG)]()
 
-8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into the Rejected folder using the same file name (yyyyMMdd).
+8. If any parts above are missing from the application it will be marked as “rejected” at the top of the page with the rejection type noted using the typewriter function (i.e. Missing Registration or Form is illegible). After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
+9. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into the Rejected folder using the same file name (yyyyMMdd).

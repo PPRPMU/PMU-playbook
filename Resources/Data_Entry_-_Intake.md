@@ -11,7 +11,7 @@ Every Thursday is the start of intake. Intake does not need to start until every
 #### Everything else:
 1. Sort forms by type (AAP, OSP, MAR, YPRF, WAR, ASDS, PSF).
 2. Remove paper clips and staples.
-3. Scan files in piles grouped by type. 
+3. Scan files in piles grouped by type.
    - If there are a lot of forms for that specific type, generally MARs, split documents in half and combine them later digitally (Highlight files, right click, "Combine supported files in Acrobat").
    - At the xerox click "Workflow Scanning"
      - Change settings to your xerox folder, 2-sided scanning, and change the document name to the format of "yyyymmdd-" + "facility name" for after school programs. Everything else will be named using the format "yyyymmdd". (You can temporarily append something like "aap" to the end of the file name to make it easier to download into the correct folder later.)

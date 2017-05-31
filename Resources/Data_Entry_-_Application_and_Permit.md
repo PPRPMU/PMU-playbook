@@ -1,6 +1,6 @@
 # PHILADELPHIA PARKS & RECREATION
 ## Application and Permit Guide
-1. Open the AAP PDF file from the Backlog.
+1. Move the Application and Permit Guide (AAP) PDF file from the "Backlog" to the "In Progress" folder, then open it. (Files should be named on the date of intake using the format: yyyyMMdd.)Open the AAP PDF file from the Backlog.
 2. Open PPRstat from your Desktop.
 3. Select Username from drop-down menu. Hit the first button next to the drop down menu to begin session.
    [![PPRstat Login](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Application_and_Permit/pprstat_login.jpg)]()
@@ -21,7 +21,7 @@
     - Staff Approved Signature and Date
     - Initials from applicant on the Rules and Regulations page
 6. If entry is complete, use typewriter function to write the Permit ID on the top of the AAP Form on the PDF file.
-7. If **any** parts above are missing from the application it will be marked at “rejected” at the top of the page with the rejection type noted using the typewriter function. After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
+7. If any parts above are missing from the application it will be marked as “rejected” at the top of the page with the rejection type noted using the typewriter function (i.e. Missing Expected Group Size or Missing Staff Approval). After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
 8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into a the Rejected folder using the same file name (yyyyMMdd).
 
 ### Tips:
