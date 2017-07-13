@@ -1,6 +1,6 @@
 # Onboarding
 ### Tuesday – Week 1
-- Processing (Have everything that can be set up before first day)
+- HR Processing (Have everything that can be set up before first day)
     - Paperwork (notify to bring SS card, ID, possible creation of work email)
     - City Computer Access
     - Building Access
