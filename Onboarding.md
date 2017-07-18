@@ -14,7 +14,9 @@
 - [ ] Copy of SS Car
 
 
-- [ ] HR Paperwork Packet #2
+##### HR Paperwork Packet #2
+
+
 
 ##### Electronic Access
 
@@ -26,12 +28,16 @@
 
     ​
 
-- [ ] Building Access
+    ##### Building Access form
+
+- [x] Complete 
+
+    [Building Access Form]: https://github.com/andrewviren/PPRforms/blob/master/Forms/US_Facilities_Triplex_Access_Card_Application.pdf
+
+and submit to Keith Freeman.
 
 - [ ] Supplies
-
 - [ ] Account creation (services sent to preferred email, add to ) 
-
 - [ ] Printed resources
 ### Wednesday – Week 1
 - Databases & Links
