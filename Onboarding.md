@@ -1,12 +1,38 @@
 # Onboarding
 ### Tuesday – Week 1
-- HR Processing (Have everything that can be set up before first day)
-    - Paperwork (notify to bring SS card, ID, possible creation of work email)
-    - City Computer Access
-    - Building Access
-    - Supplies
-    - Account creation (services sent to preferred email, add to Xerox) 
-    - Printed resources
+#### HR Processing (Have everything that can be set up before first day)
+
+##### HR Paperwork Packet # 1
+
+- [x] Notify candidate to bring SS card, ID
+- [x] Buck sheet (signed by Andy)
+- [x] Two $8 Money Orders
+- [x] Application for Civil Service Employment
+- [x] Temporary Employment Medical Form
+- [x] PA Child Abuse History Clearance Form
+- [x] Copy of License
+- [ ] Copy of SS Car
+
+
+- [ ] HR Paperwork Packet #2
+
+##### Electronic Access
+
+- [ ] Request City Computer Access
+
+    - [ ] Need Middle Name
+
+- [ ] Creation of City or City-Gmail email account
+
+    ​
+
+- [ ] Building Access
+
+- [ ] Supplies
+
+- [ ] Account creation (services sent to preferred email, add to ) 
+
+- [ ] Printed resources
 ### Wednesday – Week 1
 - Databases & Links
     - Shared Drive/Links
