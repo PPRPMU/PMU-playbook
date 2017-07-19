@@ -26,5 +26,5 @@
 
 ### Tips and Notes:
 - Ctrl + " will load previous start or end time in the scheduling fields.
-- If the amenit is for a pool/activity is swimming, the permit must include the Pool Permit Addendum. Furthermore, do not recycle the permits after they are reviewed. They will be given to Lisa Whittle.
+- If the amenity is for a pool/activity is swimming, the permit must include the Pool Permit Addendum. Furthermore, do not recycle the permits after they are reviewed. They will be given to Lisa Whittle.
 
