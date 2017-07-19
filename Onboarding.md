@@ -116,6 +116,7 @@ Review of Forms
     - Scan (add employee to Xerox a/b)
     - Download, clean up files
 - [ ] Data Entry – (Weekly Workflow)
+- [ ] Priorities Report
 ### Friday-Tuesday – Week 1 and 2
 - Instructions Review
 - Guided Data Entry
