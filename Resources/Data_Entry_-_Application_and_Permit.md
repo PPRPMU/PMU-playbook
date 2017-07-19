@@ -24,5 +24,7 @@
 7. If any parts above are missing from the application it will be marked as “rejected” at the top of the page with the rejection type noted using the typewriter function (i.e. Missing Expected Group Size or Missing Staff Approval). After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
 8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into a the Rejected folder using the same file name (yyyyMMdd).
 
-### Tips:
+### Tips and Notes:
 - Ctrl + " will load previous start or end time in the scheduling fields.
+- If the amenit is for a pool/activity is swimming, the permit must include the Pool Permit Addendum. Furthermore, do not recycle the permits after they are reviewed. They will be given to Lisa Whittle.
+
