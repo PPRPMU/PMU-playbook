@@ -1,4 +1,8 @@
-Onboarding
+# Onboarding
+
+For: Tom Chaykun
+
+Date: 8/1/2017
 
 ### Tuesday – Week 1
 #### HR Processing (Have everything that can be set up before first day)
@@ -11,7 +15,7 @@ Onboarding
 - [x] Application for Civil Service Employment
 - [x] Temporary Employment Medical Form
 - [x] PA Child Abuse History Clearance Form
-- [x] Copy of License
+- [ ] Copy of License
 - [ ] Copy of SS Card
 
 
@@ -31,13 +35,16 @@ Onboarding
 
 ##### Electronic Access
 
-- [ ] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
+- [x] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
 
-    - [ ] Need Middle Name
-    - [ ] Put Andy as requester
-    - [ ] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
+    - [x] Need Middle Name
+    - [x] Put Andy as requester
+    - [x] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
 
-- [ ] Xerox
+- [x] Xerox
+
+    - [x] http://170.115.121.88
+    - [x] http://170.115.121.43
 
 - [ ] Create City-Gmail email account
 
@@ -63,7 +70,7 @@ Onboarding
 - [ ] Conference Rooms
 ##### Schedule
 
-- [ ] Review week's schedule
+- [ ] Review ideal weekly schedule
 
 ##### Give Permissions Online (Andy)
 
@@ -72,7 +79,7 @@ Onboarding
 - [ ] GitHub Repositories
 - [ ] Dropbox folders
 
-### Wednesday – Week 1
+### Tuesday– Week 1
 - Review Database Systems
     - [ ] Shared Drive/Links
     - [ ] Knack & My-ppr.com
@@ -94,18 +101,20 @@ Review of Forms
 - Program Submission Form (PSF)
 - Weekly Attendance Report (WAR)
 
-##### Floor Intro
 
-- [ ] Email out to the Floor
-- [ ] Walk around
-
-##### Lunch
 
 ##### Coffee Shop
 
 ##### Inspiration Place
 
 ##### Reflection
+
+- [ ] Write Email out to the Floor
+- [ ] Write blog post reflecting on first day
+
+### Wednesday - Week 1
+
+- [ ] Data Entry Summer Camp
 
 ### Thursday – Week 1
 
