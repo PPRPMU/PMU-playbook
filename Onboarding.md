@@ -37,32 +37,32 @@ Date: 8/1/2017
 
 - [x] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
 
-    - [x] Need Middle Name
-    - [x] Put Andy as requester
-    - [x] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
+- [x] Need Middle Name
+- [x] Put Andy as requester
+- [x] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
 
 - [x] Xerox
 
-    - [x] http://170.115.121.88
-    - [x] http://170.115.121.43
+- [x] http://170.115.121.88
+- [x] http://170.115.121.43
 
-- [ ] Create City-Gmail email account
+- [x] Create City-Gmail email account
 
-    - [ ] Create Github Account
+- [x] Create Github Account
 
-    - [ ] Create Trello Account
+- [x] Create Trello Account
 
-    - [ ] Create Dropbox
+- [x] Create Dropbox
 
-    - [ ] Create Knack.com
+- [x] Create Knack.com
 
         ​
 
 ##### Building Access
 
 - [x] Complete [Building Access Form](https://github.com/andrewviren/PPRforms/blob/master/Forms/US_Facilities_Triplex_Access_Card_Application.pdf) and send to Keith
-- [ ] Hear back from Keith
-- [ ] Go to City Hall for Picture
+- [x] Hear back from Keith
+- [x] Go to City Hall for Picture
 
 ##### Other 
 
@@ -70,7 +70,7 @@ Date: 8/1/2017
 - [ ] Conference Rooms
 ##### Schedule
 
-- [ ] Review ideal weekly schedule
+- [x] Review ideal weekly schedule
 
 ##### Give Permissions Online (Andy)
 
@@ -81,15 +81,15 @@ Date: 8/1/2017
 
 ### Tuesday– Week 1
 - Review Database Systems
-    - [ ] Shared Drive/Links
-    - [ ] Knack & My-ppr.com
-    - [ ] ETO
-    - [ ] GitHub
-    - [ ] Trello
-    - [ ] Dropbox
-    - [ ] Forms Library
-    - [ ] Xerox
-    - [ ] PPRstat
+    - [x] Shared Drive/Links
+    - [x] Knack & My-ppr.com
+    - [x] ETO
+    - [x] GitHub
+    - [x] Trello
+    - [x] Dropbox
+    - [x] Forms Library
+    - [x] Xerox
+    - [x] PPRstat
 
 Review of Forms
 
@@ -114,11 +114,11 @@ Review of Forms
 
 ### Wednesday - Week 1
 
-- [ ] Data Entry Summer Camp
+- [x] Data Entry Summer Camp
 
 ### Thursday – Week 1
 
-- [ ] Late start
+- [x] Late start
 
 - [ ] Intake (Initial Workflow) (Afternoon)
     - Sort and Clean
