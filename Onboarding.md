@@ -75,7 +75,7 @@ Date: 8/1/2017
 ##### Give Permissions Online (Andy)
 
 - [ ] My-PPR Sandbox App
-- [ ] ETO Account
+- [ ] Trello
 - [ ] GitHub Repositories
 - [ ] Dropbox folders
 
