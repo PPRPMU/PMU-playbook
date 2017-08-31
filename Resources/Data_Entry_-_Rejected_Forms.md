@@ -6,7 +6,7 @@ After data entry is completed and the PDF pages have been extracted to the Rejec
 
     ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_menu.PNG)
 
-2.  Input all information from the form if available:
+2. Input all information from the form if available:
      a. Form Type
      b. Facility
      c. Rejection Category
@@ -18,15 +18,20 @@ After data entry is completed and the PDF pages have been extracted to the Rejec
 
 3.  Once the entry is completed, if you have not entered the rejection type on the PDF file, use the typewriter in Acrobat to do so. Make sure to type the Rejection ID on the PDF as well to show that you have entered the rejection in PPRstat.
 
-4.  Move to next entry by clicking on “Add Entry” on the bottom right hand corner.
+4. Move to next entry by clicking on “Add Entry” on the bottom right hand corner.
 
-5.  Once all rejected paperwork has been entered into PPRStat, print out rejected files and cover sheets. Start by clicking on the finished tab on the top left.
+5. Once all rejected paperwork has been entered into PPRStat, print out rejected files and cover sheets. Start by clicking on the finished tab on the top left.
 
     ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_finished_button.PNG)
 
-6.  Click “Reject and Print”  followed by generally clicking “Yes” if you want to mark all the forms as returned to the district manager.
+6. Click “Reject and Print”  followed by generally clicking “Yes” if you want to mark all the forms as returned to the district manager.
 
     ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Rejected_Forms/rejection_forms_reject_and_print.PNG)
+
 7. Print out the rejected forms for the week from each of the "Rejected" folders.
+
 8. Attach each corresponding cover sheet printed out to the corresponding rejected paperwork; make sure to sort by district.
-9. Place each district’s rejected paperwork into their corresponding mailboxes.
+
+9. If rejected paperwork is missing a page or is on the wrong form, attach whatever page(s) or form(s) may be needed for resubmission.
+
+10. Place each district’s rejected paperwork into their corresponding mailboxes.

@@ -6,7 +6,7 @@
 
 2. Open a web browser to access the following website and sign in: www.my-ppr.com
 
-3. Once you sign into my-ppr, find the facility your facility by clicking on the "My Facilities" button.
+3. Once you sign into my-ppr, find the facility by clicking on the "My Facilities" button.
 
    ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Program_Submission_Form/myppr_my_facilities_menu.png)
 

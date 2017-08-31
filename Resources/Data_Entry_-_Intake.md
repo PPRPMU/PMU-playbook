@@ -4,7 +4,7 @@ Every Thursday is the start of intake. Intake does not need to start until every
 
 #### For forms with payment:
 1. Verify that the payment amount is correct and the payment is filled out correctly (i.e. no missing signature). (See fee schedule if needed.)
-2. Write the check number on to the Outdoor Sports Application to make sure you know which form the check is for.
+2. Write the check number onto the Outdoor Sports Application to make sure you know which form the check is for.
 3. Remove paper clips and staples.
 4. Compile checks and keep in Andy's office until ready to enter into PPRstat.
 
