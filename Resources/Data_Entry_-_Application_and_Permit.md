@@ -22,7 +22,7 @@
     - Initials from applicant on the Rules and Regulations page
 6. If entry is complete, use typewriter function to write the Permit ID on the top of the AAP Form on the PDF file.
 7. If any parts above are missing from the application it will be marked as “rejected” at the top of the page with the rejection type noted using the typewriter function (i.e. Missing Expected Group Size or Missing Staff Approval). After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
-8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into a the Rejected folder using the same file name (yyyyMMdd).
+8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into the Rejected folder using the same file name (yyyyMMdd).
 
 ### Tips and Notes:
 - Ctrl + " will load previous start or end time in the scheduling fields.

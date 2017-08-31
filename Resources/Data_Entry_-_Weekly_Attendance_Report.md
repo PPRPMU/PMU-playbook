@@ -24,5 +24,5 @@
 ![](https://raw.githubusercontent.com/PPRPMU/PMU-playbook/master/Images/Data_Entry_-_Weekly_Attendance_Report/myppr_add_program_attendance_screen.PNG)
 
 7. If any parts above are missing from the application it will be marked as “rejected” at the top of the page with the rejection type noted using the typewriter function (i.e. Missing Program Submission Form). After noting the rejection type, continue with data entry, you'll return to all of the rejections after data entry is complete.
-8. Once all forms have been entered. Put all completed pages in the Completed folder and all of the rejected pages into the Rejected folder using the same file name (yyyyMMdd).
+8. Once all forms have been entered, put all completed pages in the Completed folder and all of the rejected pages into the Rejected folder using the same file name (yyyyMMdd).
 
