@@ -7,92 +7,81 @@ Onboarding
 
 - [x] Notify candidate to bring SS card, ID
 - [x] Buck sheet (signed by Andy)
-- [x] Two $8 Money Orders
+- [ ] Buck sheet (signed by Kathryn)
+- [x] One $8 Money Orders
+- [x] One $22 Money Order
 - [x] Application for Civil Service Employment
 - [x] Temporary Employment Medical Form
 - [x] PA Child Abuse History Clearance Form
 - [x] Copy of License
 - [ ] Copy of SS Card
+- [x] Employee Relative Questionaire
 
 
 ##### HR Paperwork Packet #2
 
-- [ ] Seasonal Processing Packet Coversheet & Questionaire
-- [ ] Employees Witholding Exemption Certificate
-- [ ] I-9 Form
-- [ ] City of Philadelphia Self-identification Survey
-- [ ] Employee Relative Questionaire
-- [ ] Indebtedness Waiver
-- [ ] Photo ID Sheet
-- [ ] Seasonal Memorandum
-- [ ] Seasonal Memorandum (Supervisor Copy - Optional)
-- [ ] Workers Compensation Act Form
+- [x] Employees Witholding Exemption Certificate
+- [x] I-9 Form
+- [x] City of Philadelphia Self-identification Survey
+- [x] Photo ID Sheet
+- [x] Seasonal Memorandum
 - [ ] Take photo
 
 ##### Electronic Access
 
-- [ ] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
+- [X] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
 
-    - [ ] Need Middle Name
-    - [ ] Put Andy as requester
-    - [ ] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
+    - [X] Need Middle Name
+    - [X] Put Andy as requester
+    - [X] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
 
-- [ ] Xerox
+- [ ] Create Github Account
 
-- [ ] Create City-Gmail email account
+- [x] Create Knack.com
 
-    - [ ] Create Github Account
+- [x] Add to Cityspan
 
-    - [ ] Create Trello Account
+- [x] Add to Home base
 
-    - [ ] Create Dropbox
-
-    - [ ] Create Knack.com
-
-        ​
+- [x] Xerox
 
 ##### Building Access
 
-- [x] Complete [Building Access Form](https://github.com/andrewviren/PPRforms/blob/master/Forms/US_Facilities_Triplex_Access_Card_Application.pdf) and send to Keith
-- [ ] Hear back from Keith
+- [x] Complete Building Access Form with Shirlee (with payroll number)
+- [ ] Hear back from Shirlee
 - [ ] Go to City Hall for Picture
 
 ##### Other 
 
-- [ ] Timesheets
+- [x] Timesheets
 - [ ] Conference Rooms
+
 ##### Schedule
 
-- [ ] Review week's schedule
+- [x] Review week's schedule
 
 ##### Give Permissions Online (Andy)
 
 - [ ] My-PPR Sandbox App
-- [ ] ETO Account
+- [ ] Cityspan Account
 - [ ] GitHub Repositories
-- [ ] Dropbox folders
 
 ### Wednesday – Week 1
 - Review Database Systems
-    - [ ] Shared Drive/Links
-    - [ ] Knack & My-ppr.com
-    - [ ] ETO
+    - [x] Shared Drive/Links
+    - [x] Knack, My-PPR.com, and Finder
+    - [x] Cityspan
     - [ ] GitHub
-    - [ ] Trello
-    - [ ] Dropbox
     - [ ] Forms Library
-    - [ ] Xerox
-    - [ ] PPRstat
+    - [x] Xerox
+    - [x] PPRstat
 
 Review of Forms
 
-- Application and Permit for use of Recreation Facilities by Groups (AAP)
-- Outdoor Sports Permit (OSP)
+- Recreation and Athletic Permit Applicaiton (RAPA)
 - Youth Participation and Registration Form (YPRF)
 - Monthly Attendance Reports (MAR)
-- Afterschool Drop Slip (ASDS)
-- Program Submission Form (PSF)
-- Weekly Attendance Report (WAR)
+- Pool schedules
 
 ##### Floor Intro
 
@@ -117,10 +106,13 @@ Review of Forms
     - Download, clean up files
 - [ ] Data Entry – (Weekly Workflow)
 - [ ] Priorities Report
+
 ### Friday-Tuesday – Week 1 and 2
 - Instructions Review
 - Guided Data Entry
+
 ### Wednesday – Week 2
 - Github Workflow
+
 ### Wednesday – Week 3
 - My-PPR/Knack
