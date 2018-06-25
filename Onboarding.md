@@ -14,7 +14,7 @@ Onboarding
 - [x] Temporary Employment Medical Form
 - [x] PA Child Abuse History Clearance Form
 - [x] Copy of License
-- [ ] Copy of SS Card
+- [x] Copy of SS Card
 - [x] Employee Relative Questionaire
 
 
@@ -35,7 +35,7 @@ Onboarding
     - [X] Put Andy as requester
     - [X] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
 
-- [ ] Create Github Account
+- [x] Create Github Account
 
 - [x] Create Knack.com
 
@@ -54,7 +54,7 @@ Onboarding
 ##### Other 
 
 - [x] Timesheets
-- [ ] Conference Rooms
+- [x] Conference Rooms
 
 ##### Schedule
 
@@ -85,8 +85,8 @@ Review of Forms
 
 ##### Floor Intro
 
-- [ ] Email out to the Floor
-- [ ] Walk around
+- [x] Email out to the Floor
+- [x] Walk around
 
 ##### Lunch
 
