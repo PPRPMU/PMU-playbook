@@ -7,7 +7,7 @@ Onboarding
 
 - [x] Notify candidate to bring SS card, ID
 - [x] Buck sheet (signed by Andy)
-- [ ] Buck sheet (signed by Kathryn)
+- [x] Buck sheet (signed by Kathryn)
 - [x] One $8 Money Orders
 - [x] One $22 Money Order
 - [x] Application for Civil Service Employment
@@ -36,19 +36,17 @@ Onboarding
     - [X] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
 
 - [x] Create Github Account
-
 - [x] Create Knack.com
-
 - [x] Add to Cityspan
-
-- [x] Add to Home base
-
-- [x] Xerox
+- [x] Add to Homebase (timesheets)
+- [x] Add folder to Xerox machines (33,43,88)
+- [x] Add as staff person for weekly attendance entry
+- [x] Add as admin for Pool schedules
 
 ##### Building Access
 
-- [x] Complete Building Access Form with Shirlee (with payroll number)
-- [ ] Hear back from Shirlee
+- [x] Request building access card from Shirlee Glen (payroll number required)
+- [ ] Receive confirmation of security approval from Shirlee
 - [ ] Go to City Hall for Picture
 
 ##### Other 
@@ -58,7 +56,7 @@ Onboarding
 
 ##### Schedule
 
-- [x] Review week's schedule
+- [x] Review ideal weekly schedule
 
 ##### Give Permissions Online (Andy)
 
@@ -76,7 +74,7 @@ Onboarding
     - [x] Xerox
     - [x] PPRstat
 
-Review of Forms
+##### Review of Forms
 
 - Recreation and Athletic Permit Applicaiton (RAPA)
 - Youth Participation and Registration Form (YPRF)
@@ -84,35 +82,5 @@ Review of Forms
 - Pool schedules
 
 ##### Floor Intro
-
 - [x] Email out to the Floor
 - [x] Walk around
-
-##### Lunch
-
-##### Coffee Shop
-
-##### Inspiration Place
-
-##### Reflection
-
-### Thursday – Week 1
-
-- [ ] Late start
-
-- [ ] Intake (Initial Workflow) (Afternoon)
-    - Sort and Clean
-    - Scan (add employee to Xerox a/b)
-    - Download, clean up files
-- [ ] Data Entry – (Weekly Workflow)
-- [ ] Priorities Report
-
-### Friday-Tuesday – Week 1 and 2
-- Instructions Review
-- Guided Data Entry
-
-### Wednesday – Week 2
-- Github Workflow
-
-### Wednesday – Week 3
-- My-PPR/Knack
