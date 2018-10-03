@@ -37,6 +37,7 @@ Date: 8/1/2017
 
 - [x] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
 
+<<<<<<< HEAD
     - [x] Need Middle Name
     - [x] Put Andy as requester
     - [x] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
@@ -52,10 +53,31 @@ Date: 8/1/2017
       - [ ] Hear back from Keith
 
       - [ ] Go to City Hall for Picture
+=======
+- [x] Need Middle Name
+- [x] Put Andy as requester
+- [x] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
+
+- [x] Xerox
+
+- [x] http://170.115.121.88
+- [x] http://170.115.121.43
+
+- [x] Create City-Gmail email account
+
+- [x] Create Github Account
+
+- [x] Create Trello Account
+
+- [x] Create Dropbox
+
+- [x] Create Knack.com
+>>>>>>> 821140b625242c40ae656b03d335c4496c156f94
 
         ​
 
 
+<<<<<<< HEAD
 ### Tuesday– Week 1
 
 - [x] Create City-Gmail email account
@@ -65,10 +87,16 @@ Date: 8/1/2017
 - [x] Create Dropbox Account
 - [x] Create Knack.com Account
 
+=======
+- [x] Complete [Building Access Form](https://github.com/andrewviren/PPRforms/blob/master/Forms/US_Facilities_Triplex_Access_Card_Application.pdf) and send to Keith
+- [x] Hear back from Keith
+- [x] Go to City Hall for Picture
+>>>>>>> 821140b625242c40ae656b03d335c4496c156f94
 
 
 ##### Discussion
 
+<<<<<<< HEAD
 - [ ] Review ideal weekly schedule (insert link)
 - [ ] Performance management mission statement 
 - [ ] Timesheets (insert link)
@@ -83,17 +111,32 @@ Date: 8/1/2017
 
 - [ ] Write Email out to the Floor
 - [ ] Write blog post reflecting on first day
+=======
+- [x] Review ideal weekly schedule
+>>>>>>> 821140b625242c40ae656b03d335c4496c156f94
 
 ##### Give Permissions Online (Andy)
 
 - [ ] My-PPR Sandbox App
-- [ ] ETO Account
+- [ ] Trello
 - [ ] GitHub Repositories
 - [ ] Dropbox folders
 
 ### Wednesday - Week 1
 
 - Review Database Systems
+<<<<<<< HEAD
+=======
+    - [x] Shared Drive/Links
+    - [x] Knack & My-ppr.com
+    - [x] ETO
+    - [x] GitHub
+    - [x] Trello
+    - [x] Dropbox
+    - [x] Forms Library
+    - [x] Xerox
+    - [x] PPRstat
+>>>>>>> 821140b625242c40ae656b03d335c4496c156f94
 
   - [ ] Shared Drive
 
@@ -133,11 +176,15 @@ Date: 8/1/2017
 
         ​
 
+<<<<<<< HEAD
 - Summer Camp Data Entry 
+=======
+- [x] Data Entry Summer Camp
+>>>>>>> 821140b625242c40ae656b03d335c4496c156f94
 
 ### Thursday – Week 1
 
-- [ ] Late start
+- [x] Late start
 
 - [ ] Intake (Initial Workflow) (Afternoon)
     - Sort and Clean
