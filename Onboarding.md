@@ -15,23 +15,23 @@ Date: 8/1/2017
 - [x] Application for Civil Service Employment
 - [x] Temporary Employment Medical Form
 - [x] PA Child Abuse History Clearance Form
-- [ ] Copy of License
-- [ ] Copy of SS Card
+- [x] Copy of License
+- [x] Copy of SS Card
 
 
 ##### HR Paperwork Packet #2
 
-- [ ] Seasonal Processing Packet Coversheet & Questionaire
-- [ ] Employees Witholding Exemption Certificate
-- [ ] I-9 Form
-- [ ] City of Philadelphia Self-identification Survey
-- [ ] Employee Relative Questionaire
-- [ ] Indebtedness Waiver
-- [ ] Photo ID Sheet
-- [ ] Seasonal Memorandum
-- [ ] Seasonal Memorandum (Supervisor Copy - Optional)
-- [ ] Workers Compensation Act Form
-- [ ] Take photo
+- [x] Seasonal Processing Packet Coversheet & Questionaire
+- [x] Employees Witholding Exemption Certificate
+- [x] I-9 Form
+- [x] City of Philadelphia Self-identification Survey
+- [x] Employee Relative Questionaire
+- [x] Indebtedness Waiver
+- [x] Photo ID Sheet
+- [x] Seasonal Memorandum
+- [x] Seasonal Memorandum (Supervisor Copy to Andy)
+- [x] Workers Compensation Act Form
+- [x] Take photo
 
 ##### Electronic Access
 
@@ -40,66 +40,38 @@ Date: 8/1/2017
     - [x] Need Middle Name
     - [x] Put Andy as requester
     - [x] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
-
-- [x] Xerox
-
+- [x] Add folder to Xerox
     - [x] http://170.115.121.88
     - [x] http://170.115.121.43
 
-- [ ] Create City-Gmail email account
 
-    - [ ] Create Github Account
+- [ ] ##### Building Access
 
-    - [ ] Create Trello Account
+      - [x] Complete [Building Access Form](https://github.com/andrewviren/PPRforms/blob/master/Forms/US_Facilities_Triplex_Access_Card_Application.pdf) and send to Keith
 
-    - [ ] Create Dropbox
+      - [ ] Hear back from Keith
 
-    - [ ] Create Knack.com
+      - [ ] Go to City Hall for Picture
 
         ​
 
-##### Building Access
-
-- [x] Complete [Building Access Form](https://github.com/andrewviren/PPRforms/blob/master/Forms/US_Facilities_Triplex_Access_Card_Application.pdf) and send to Keith
-- [ ] Hear back from Keith
-- [ ] Go to City Hall for Picture
-
-##### Other 
-
-- [ ] Timesheets
-- [ ] Conference Rooms
-##### Schedule
-
-- [ ] Review ideal weekly schedule
-
-##### Give Permissions Online (Andy)
-
-- [ ] My-PPR Sandbox App
-- [ ] ETO Account
-- [ ] GitHub Repositories
-- [ ] Dropbox folders
 
 ### Tuesday– Week 1
-- Review Database Systems
-    - [ ] Shared Drive/Links
-    - [ ] Knack & My-ppr.com
-    - [ ] ETO
-    - [ ] GitHub
-    - [ ] Trello
-    - [ ] Dropbox
-    - [ ] Forms Library
-    - [ ] Xerox
-    - [ ] PPRstat
 
-Review of Forms
+- [x] Create City-Gmail email account
+      * Email account
+- [x] create Github Account
+- [x] Create Trello Account
+- [x] Create Dropbox Account
+- [x] Create Knack.com Account
 
-- Application and Permit for use of Recreation Facilities by Groups (AAP)
-- Outdoor Sports Permit (OSP)
-- Youth Participation and Registration Form (YPRF)
-- Monthly Attendance Reports (MAR)
-- Afterschool Drop Slip (ASDS)
-- Program Submission Form (PSF)
-- Weekly Attendance Report (WAR)
+
+
+##### Discussion
+
+- [ ] Review ideal weekly schedule (insert link)
+- [ ] Performance management mission statement 
+- [ ] Timesheets (insert link)
 
 
 
@@ -112,9 +84,56 @@ Review of Forms
 - [ ] Write Email out to the Floor
 - [ ] Write blog post reflecting on first day
 
+##### Give Permissions Online (Andy)
+
+- [ ] My-PPR Sandbox App
+- [ ] ETO Account
+- [ ] GitHub Repositories
+- [ ] Dropbox folders
+
 ### Wednesday - Week 1
 
-- [ ] Data Entry Summer Camp
+- Review Database Systems
+
+  - [ ] Shared Drive
+
+  - [ ] PPRstat
+
+  - [ ] Knack & My-ppr.com
+
+  - [ ] ETO
+
+  - [ ] GitHub
+
+  - [ ] Trello
+
+  - [ ] Dropbox
+
+  - [ ] Forms Library
+
+  - [ ] Xerox
+
+        ​
+
+- Review of Forms and Instructions
+
+  - [ ] Application and Permit for use of Recreation Facilities by Groups (AAP)
+
+  - [ ] Outdoor Sports Permit (OSP)
+
+  - [ ] Youth Participation and Registration Form (YPRF)
+
+  - [ ] Monthly Attendance Reports (MAR)
+
+  - [ ] Afterschool Drop Slip (ASDS)
+
+  - [ ] Program Submission Form (PSF)
+
+  - [ ] Weekly Attendance Report (WAR)
+
+        ​
+
+- Summer Camp Data Entry 
 
 ### Thursday – Week 1
 
