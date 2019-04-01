@@ -1,22 +1,29 @@
-Onboarding
+#Performance Management Unit Seasonal Onboarding
 
-### Tuesday – Week 1
-#### HR Processing (Have everything that can be set up before first day)
+##Personnel processing
 
-##### HR Paperwork Packet # 1
+###  Complete Seasonal Employee Application Packet (applicant)
+- [ ] Get money orders 
+	- [ ] One for $13
+	- [ ] one for $22
+- [ ] Complete "Application for Civil Service Employment" form
+- [ ] Complete "Nepotism Disclosure" form
+- [ ] Complete "Pre-Employment Medical/Testing Consent & Release Form"
+- [ ] Complete "Pre-employment Medical Evaluation" form with medical examiner's signature (this can be completed at a Walgreens or CVS)
+- [ ] Complete "Request for Criminal Record Check" form
+- [ ] Complete "Consent/Release of Information Authorization for the Pennsylvania Child Abuse History Certification"
+- [ ] Complete "Pennsylvania Child Abuse History Certification"
+- [ ] Complete FBI fingerprints online application
+- [ ] Complete fingerprints processing (location options will be provided after you complete online application)
+- [ ] Make copy of License
+- [ ] Make copy of SS Card
 
-- [ ] Notify candidate to bring SS card, ID
+### Complete buck sheet (Manager)
 - [ ] Buck sheet (signed by Andy)
-- [ ] Two Money Orders for $13 and $22
-- [ ] Application for Civil Service Employment
-- [ ] Temporary Employment Medical Form
-- [ ] PA Child Abuse History Clearance Form
-- [ ] Copy of License
-- [ ] Copy of SS Card
-
 
 ##### HR Paperwork Packet #2
 
+- [ ] Notify candidate to bring SS card, ID
 - [ ] Seasonal Processing Packet Coversheet & Questionaire
 - [ ] Employees Witholding Exemption Certificate
 - [ ] I-9 Form
@@ -77,14 +84,14 @@ Onboarding
 
 - [ ] My-PPR Sandbox App
 - [ ] CitySpan Account
-	- [x] Andy emails Jeremy Keim-Shank
+	- [ ] Andy emails Jeremy Keim-Shank
 - [ ] GitHub Repositories
 - [ ] Dropbox folders
 
 ### Wednesday – Week 1
 - Review Database Systems
     - [ ] Shared Drive/Links
-		- [x] paperworok intake process
+		- [ ] paperworok intake process
     - [ ] My-ppr.com
 		- [ ] Inputting site attendance
     - [ ] CitySpan phillyost.cityspan.com
