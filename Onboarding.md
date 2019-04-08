@@ -3,20 +3,20 @@
 ##Personnel processing
 
 ###  Complete Seasonal Employee Application Packet (applicant)
-- [ ] Get money orders 
-	- [ ] One for $13
-	- [ ] one for $22
-- [ ] Complete "Application for Civil Service Employment" form
-- [ ] Complete "Nepotism Disclosure" form
-- [ ] Complete "Pre-Employment Medical/Testing Consent & Release Form"
-- [ ] Complete "Pre-employment Medical Evaluation" form with medical examiner's signature (this can be completed at a Walgreens or CVS)
-- [ ] Complete "Request for Criminal Record Check" form
-- [ ] Complete "Consent/Release of Information Authorization for the Pennsylvania Child Abuse History Certification"
-- [ ] Complete "Pennsylvania Child Abuse History Certification"
-- [ ] Complete FBI fingerprints online application
-- [ ] Complete fingerprints processing (location options will be provided after you complete online application)
-- [ ] Make copy of License
-- [ ] Make copy of SS Card
+- [X] Get money orders 
+	- [X] One for $13
+	- [X] one for $22
+- [X] Complete "Application for Civil Service Employment" form
+- [X] Complete "Nepotism Disclosure" form
+- [X] Complete "Pre-Employment Medical/Testing Consent & Release Form"
+- [X] Complete "Pre-employment Medical Evaluation" form with medical examiner's signature (this can be completed at a Walgreens or CVS)
+- [X] Complete "Request for Criminal Record Check" form
+- [X] Complete "Consent/Release of Information Authorization for the Pennsylvania Child Abuse History Certification"
+- [X] Complete "Pennsylvania Child Abuse History Certification"
+- [X] Complete FBI fingerprints online application
+- [X] Complete fingerprints processing (location options will be provided after you complete online application)
+- [X] Make copy of License
+
 
 ### Complete buck sheet (Manager)
 - [ ] Buck sheet (signed by Andy)
@@ -24,9 +24,10 @@
 ##### HR Paperwork Packet #2
 
 - [ ] Notify candidate to bring SS card, ID
+- [ ] Make copy of SS Card
 - [ ] Seasonal Processing Packet Coversheet & Questionaire
 - [ ] Employees Witholding Exemption Certificate
-- [ ] I-9 Form
+- [X] I-9 Form
 - [ ] City of Philadelphia Self-identification Survey
 - [ ] Employee Relative Questionaire
 - [ ] Indebtedness Waiver
