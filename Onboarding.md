@@ -21,6 +21,15 @@
 ### Complete buck sheet (Manager)
 - [ ] Buck sheet (signed by Andy)
 
+##### Electronic Access
+
+- [ ] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=45002)
+
+    - [ ] Need Middle Name
+    - [ ] Put Andy as requester
+    - [ ] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
+
+
 ##### HR Paperwork Packet #2
 
 - [ ] Notify candidate to bring SS card, ID
@@ -36,13 +45,7 @@
 - [ ] Seasonal Memorandum (Supervisor Copy - Optional)
 - [ ] Workers Compensation Act Form
 
-##### Electronic Access
 
-- [ ] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=37735)
-
-    - [ ] Need Middle Name
-    - [ ] Put Andy as requester
-    - [ ] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
 
 - [ ] Xerox
 
