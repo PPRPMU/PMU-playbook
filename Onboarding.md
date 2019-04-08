@@ -21,13 +21,13 @@
 ### Complete buck sheet (Manager)
 - [ ] Buck sheet (signed by Andy)
 
-##### Electronic Access
+##### AD account created
 
-- [ ] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=45002)
+- [X] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=45002)
 
-    - [ ] Need Middle Name
-    - [ ] Put Andy as requester
-    - [ ] Only request "AD Account with access to P:/Performance Mgmt and Programming". No email
+    - [X] Need Middle Name
+    - [X] Put Andy as requester
+    - [X] Access to P:/Performance Mgmt and Programming
 
 
 ##### HR Paperwork Packet #2
@@ -46,6 +46,8 @@
 - [ ] Workers Compensation Act Form
 
 
+
+##### Electronic Access
 
 - [ ] Xerox
 
