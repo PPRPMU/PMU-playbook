@@ -1,6 +1,6 @@
-#Performance Management Unit Seasonal Onboarding
+# Performance Management Unit Seasonal Onboarding
 
-##Personnel processing
+## Personnel processing
 
 ###  Complete Seasonal Employee Application Packet (applicant)
 - [X] Get money orders 
@@ -19,145 +19,120 @@
 
 
 ### Complete buck sheet (Manager)
-- [ ] Buck sheet (signed by Andy)
+- [x] Buck sheet (signed by Andy)
 
-##### AD account created
-
+### AD account created
 - [X] Complete [City Computer Access Form](https://events.membersolutions.com/event_register.asp?content_id=45002)
-
     - [X] Need Middle Name
     - [X] Put Andy as requester
     - [X] Access to P:/Performance Mgmt and Programming
+    - [x] Hear back from John Piller with password
 
+### Building Access
+- [x] Andy to get Shawn's payroll number
+- [x] Andy emails Shirlee Glenn request including payroll number
+	To: Shirlee Glen
+	Subject: Request for building Access for [First Last] for OPB, MSB
+	Body:  
 
-##### HR Paperwork Packet #2
+Dear Shirlee,
 
-- [ ] Notify candidate to bring SS card, ID
-- [ ] Make copy of SS Card
-- [ ] Seasonal Processing Packet Coversheet & Questionaire
-- [ ] Employees Witholding Exemption Certificate
-- [X] I-9 Form
-- [ ] City of Philadelphia Self-identification Survey
-- [ ] Employee Relative Questionaire
-- [ ] Indebtedness Waiver
-- [ ] Photo ID Sheet
-- [ ] Seasonal Memorandum
-- [ ] Seasonal Memorandum (Supervisor Copy - Optional)
-- [ ] Workers Compensation Act Form
+Will you please get a request for building access for First Last, CCed,  to OPB and MSB from 7am - 9pm weekdays? He needs access to MSB to go to the Innovation Lab on the 16th floor for meetings with me.
 
+[]'s payroll number is [].
 
+Thanks!
 
-##### Electronic Access
+Andy
 
-- [ ] Xerox
-
-- [ ] Create City-Gmail email account
-
-    - [ ] Create Github Account
-		-[ ] add as collaborator to PPRMU and my-ppr
-
-    - [ ] Create Trello Account
-		-[ ] add as collaborator
-
-    - [ ] Create Dropbox
-		-[ ] add access to copy of pdrive/performance mgmt
-
-    - [ ] Create Knack.com account
-		-[ ] add as user to my-ppr app
-		-[ ] add as a builder to sandbox
-	
-	- [ ] Create Homebase account
-		- [ ] update pin
-		
-##### Building Access
-
-- [ ] Get payroll number
-- [ ] Andy emails Shirlee Glenn request including payroll number
 - [ ] Hear back from Shirlee
 - [ ] Go to City Hall for Picture
 
-##### Other 
+### HR Processing Packet
+- [x] Notify candidate to bring SS card, ID
+- [x] Make copy of SS Card
+- [x] Seasonal Processing Packet Coversheet & Questionaire
+- [x] Employees Witholding Exemption Certificate
+- [x] I-9 Form
+- [x] City of Philadelphia Self-identification Survey
+- [x] Employee Relative Questionaire
+- [x] Indebtedness Waiver
+- [x] Photo ID Sheet
+- [x] Seasonal Memorandum
+- [x] Seasonal Memorandum (Supervisor Copy - Optional)
+- [x] Workers Compensation Act Form
 
-- [x] Timesheets (due 10am on Monday weekly)
-	- [x] Review homebase time clock
-- [x] Conference Rooms
 
-##### Schedule
+### Performance Manager (PM) onboards new hire
+#### Electronic accounts & access
+- [x] PM emails Jeremy Keim-Shenk CitySpan Account
+	To: Jeremy.Keim-Shenk@phila.gov
+	CC: Gulal.Nakati@phila.gov; [Email address]
+	Subject: Request to add [First Last] as Cityspan Service Management System Regular User to all PPR  Program Sites
+	Body:
+	Hi Jeremy,
 
-- [ ] Review week's schedule
+                Can you please add [First Last] ([Email address]), CCed here, as a Regular User to all our PPR Program Sites? 
+                
+                [] starts [start date] and will be helping with Registration form entry for our [Summer Camps, After School].
 
-##### Give Permissions Online (Andy)
+                Thanks!
 
-- [ ] My-PPR Sandbox App
-- [ ] CitySpan Account
-	- [ ] Andy emails Jeremy Keim-Shank
-- [ ] GitHub Repositories
-- [ ] Dropbox folders
+#### Timesheets 
+- [ ] PM review timesheets with new hire
+#### Weekly schedule
+- [ ] PM to review weekly schedule
+#### Strategic Plan review
+- [ ] PM to review strategic plan
+#### Floor Intro
+- [ ] New hire writes intro email to be sent to the 10th floor
+- [ ] PM to email out to the Floor
+- [ ] PM to lead new hire around the floor
+- [ ] PM to show new hire about booking a conference room
 
-### Wednesday – Week 1
-- Review Database Systems
-    - [ ] Shared Drive/Links
-		- [ ] paperworok intake process
-    - [ ] My-ppr.com
-		- [ ] Inputting site attendance
-    - [ ] CitySpan phillyost.cityspan.com
-		- [ ] inputting registration data (demographics, names, schools in addition to schedules and daily attendance)
-		- [ ] only after school and summer camp data
-    - [ ] GitHub
-		- [ ] managing my-ppr.com styling
-	- [ ] Knack
-		- [ ] builder.knack.com, building additional database functionality for my-ppr
-    - [ ] Trello
-		- [ ] project management outside of data entry
-    - [ ] Dropbox (duplicate p drive)
-    - [ ] Forms Library
-		- [ ] get access to ppr-forms repo with internal forms
-    - [ ] Xerox
-		- [ ] IP addresses
-    - [ ] PPRstat
-		- [ ] database is located in shared drive 
-	- [ ] PPRinfo.com
-	- [ ] PPR Finder app (https://www.phila.gov/parks-rec-finder/#/activities)
-	- [ ] review workflow diagram
-	- [ ] review org chart 
+###  Current Data Entry Associate (DAE) onboards new hire
+#### Electronic accounts & access
+- [ ] Xerox
+	* DAE to help new hire set up accounts on two Xerox's on south side (IP addresses 170.115.121.43 and 170.115.121.88)
+	* DAE to show new hire how to access files using machines' IP addresses
+- [ ] Create Github Account
+	* Moh to help Shawn set up an account
+- [ ] Create Knack.com account
+	* Moh to help as Shawn set up Knack account
+	* Moh to show him MyPPR (from matia-gov.github.io)
+- [ ] Moh to add Shawn as user on My-PPR Sandbox App
+- [ ] City-Gmail email account (optional)
+	* DAE to help new hire to setup city Gmail account if he wants
 
-Review of Forms
+##### Review Database Systems
+- [ ] Shared drive
+	* Program master list
+- [ ] My-ppr.com
+- [ ] builder.knack.com
+- [ ] Inputting site attendance
+- [ ] CitySpan phillyost.cityspan.com
+- [ ] GitHub
+- [ ] PPRstat
+- [ ] PPRinfo.com
+- [ ] [PPR Finder app] (https://www.phila.gov/parks-rec-finder/#/activities)
+- [ ] Review workflow diagram
+- [ ] review org chart 
+- [ ] Review strategic plan (with Moh)
 
-- Application and Permit for use of Recreation Facilities by Groups (AAP)
-- Outdoor Sports Permit (OSP)
-- Youth Participation and Registration Form (YPRF)
-- Monthly Attendance Reports (MAR)
-- Afterschool Drop Slip (ASDS)
-- Program Submission Form (PSF)
-- Weekly Attendance Report (WAR)
+##### Review Forms & Documents
+- [ ] Recreation and Athletic Permit Application
+- [ ] Youth Participation and Registration Form (YPRF)
+- [ ] Weekly Attendance Report (WAR)
+- [ ] Manager list
+- [ ] Fee schedule 
 
-##### Floor Intro
+#### Sample data entry
+- [ ] DAE reviewspaperwork intake process diagram
+- [ ] New hire to complete sample data entry
 
-- [ ] Email out to the Floor
-- [ ] Walk around
-
-##### Lunch
-
-##### Coffee Shop
-
-##### Inspiration Place
-
-##### Reflection
-
-### Thursday – Week 1
-
-- [ ] Late start
-
-- [ ] Intake (Initial Workflow) (Afternoon)
+### First Thursday
+- [ ] New hire completes intake 
     - Sort and Clean
     - Scan (add employee to Xerox a/b)
     - Download, clean up files
 - [ ] Data Entry – (Weekly Workflow)
-- [ ] Priorities Report
-### Friday-Tuesday – Week 1 and 2
-- Instructions Review
-- Guided Data Entry
-### Wednesday – Week 2
-- Github Workflow
-### Wednesday – Week 3
-- My-PPR/Knack
