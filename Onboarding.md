@@ -82,27 +82,27 @@ Andy
 - [ ] PM review timesheets with new hire
 #### Weekly schedule
 - [ ] PM to review weekly schedule
-#### Strategic Plan review
-- [ ] PM to review strategic plan
 #### Floor Intro
 - [ ] New hire writes intro email to be sent to the 10th floor
 - [ ] PM to email out to the Floor
 - [ ] PM to lead new hire around the floor
 - [ ] PM to show new hire about booking a conference room
+#### Strategic Plan review
+- [ ] PM to review strategic plan
 
-###  Current Data Entry Associate (DAE) onboards new hire
+###  Current Data Entry Associate (DEA) onboards new hire
 #### Electronic accounts & access
 - [ ] Xerox
-	* DAE to help new hire set up accounts on two Xerox's on south side (IP addresses 170.115.121.43 and 170.115.121.88)
-	* DAE to show new hire how to access files using machines' IP addresses
+	* DEA to help new hire set up accounts on two Xerox's on south side (IP addresses 170.115.121.43 and 170.115.121.88)
+	* DEA to show new hire how to access files using machines' IP addresses
 - [ ] Create Github Account
-	* Moh to help Shawn set up an account
+	* DEA to help new hire set up an account
 - [ ] Create Knack.com account
-	* Moh to help as Shawn set up Knack account
-	* Moh to show him MyPPR (from matia-gov.github.io)
-- [ ] Moh to add Shawn as user on My-PPR Sandbox App
+	* DEA to help as new hire set up Knack account
+	* DEA to show new hire MyPPR (from matia-gov.github.io)
+- [ ] DEA to add Shawn as user on My-PPR Sandbox App
 - [ ] City-Gmail email account (optional)
-	* DAE to help new hire to setup city Gmail account if he wants
+	* DEA to help new hire to setup city Gmail account if he wants
 
 ##### Review Database Systems
 - [ ] Shared drive
@@ -116,8 +116,7 @@ Andy
 - [ ] PPRinfo.com
 - [ ] [PPR Finder app] (https://www.phila.gov/parks-rec-finder/#/activities)
 - [ ] Review workflow diagram
-- [ ] review org chart 
-- [ ] Review strategic plan (with Moh)
+- [ ] review org chart
 
 ##### Review Forms & Documents
 - [ ] Recreation and Athletic Permit Application
@@ -127,7 +126,7 @@ Andy
 - [ ] Fee schedule 
 
 #### Sample data entry
-- [ ] DAE reviewspaperwork intake process diagram
+- [ ] DEA reviewspaperwork intake process diagram
 - [ ] New hire to complete sample data entry
 
 ### First Thursday
