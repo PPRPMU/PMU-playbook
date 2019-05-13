@@ -79,16 +79,21 @@ Andy
                 Thanks!
 
 #### Timesheets 
-- [ ] PM review timesheets with new hire
+- [x] PM review timesheets with new hire
 #### Weekly schedule
-- [ ] PM to review weekly schedule
+- [x] PM to review weekly schedule
 #### Floor Intro
 - [ ] New hire writes intro email to be sent to the 10th floor
 - [ ] PM to email out to the Floor
-- [ ] PM to lead new hire around the floor
-- [ ] PM to show new hire about booking a conference room
+- [x] PM to lead new hire around the floor
+- [x] PM to show new hire about booking a conference room
+- [ ] New hire to login and create a new password
 #### Strategic Plan review
 - [ ] PM to review strategic plan
+- [x] Discuss project ideas
+	- [x] Current PPRPMU Responsibilities
+- [ ] Discuss goals for position
+- [x] Independent study
 
 ###  Current Data Entry Associate (DEA) onboards new hire
 #### Electronic accounts & access
