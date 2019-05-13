@@ -86,6 +86,7 @@ Andy
 - [ ] New hire writes intro email to be sent to the 10th floor
 - [ ] PM to email out to the Floor
 - [x] PM to lead new hire around the floor
+	- [ ] Show new hire where bathrooms are
 - [x] PM to show new hire about booking a conference room
 - [ ] New hire to login and create a new password
 #### Strategic Plan review
